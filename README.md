@@ -19,7 +19,7 @@
 ###
 
 <div align="left">
-  <img src="https://static.vecteezy.com/system/resources/previews/022/100/214/original/java-logo-transparent-free-png.png" height="40" alt="java logo"  />
+  <img src="https://tse4.mm.bing.net/th/id/OIP.gwn9oBYFZQsSpvJfxCfAowHaKA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://gss-technology.com/wp-content/uploads/2021/07/04.png" height="40" alt="python logo"  />
   <img width="12" />
